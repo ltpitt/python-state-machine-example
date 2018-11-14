@@ -1,5 +1,3 @@
-# python-state-machine-example
-
 # Python State Machine Example
 > This repo contains a simple example of a state machine, credit goes to: https://dev.to/karn/building-a-simple-state-machine-in-python.
 

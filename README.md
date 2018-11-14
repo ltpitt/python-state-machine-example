@@ -7,7 +7,7 @@
 
 ## How to use
 
-Clone this repo and enter the repo folder:
+Clone this repo and enter the repo folder:  
 `git clone https://github.com/ltpitt/python-state-machine-example.git && cd python-state-machine-example`
 
 Run:  

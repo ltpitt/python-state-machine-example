@@ -3,7 +3,7 @@
 # Python State Machine Example
 > This repo contains a simple example of a state machine, credit goes to: https://dev.to/karn/building-a-simple-state-machine-in-python.
 
-## Prerequisites for Vagrant (if you need / want a virtual machine)
+## Prerequisites
 
 - Python (tested on 2.7, should work without modification on 3.x)
 

@@ -7,7 +7,10 @@
 
 ## How to use
 
-Simply run:  
+Clone this repo and enter the repo folder:
+`git clone https://github.com/ltpitt/python-state-machine-example.git && cd python-state-machine-example`
+
+Run:  
 `python runner.py`  
 
 Happy hacking :)

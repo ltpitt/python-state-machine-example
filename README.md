@@ -23,7 +23,7 @@ Happy hacking :)
 
 ## Meta
 
-Davide Nastri – [@pitto](https://twitter.com/pitto) – d.nastri@gmail.com
+Davide Nastri – d.nastri@gmail.com
 
 [https://github.com/ltpitt/python-state-machine-example](https://github.com/ltpitt/)
 
